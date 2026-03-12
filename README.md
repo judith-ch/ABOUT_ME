@@ -1,4 +1,4 @@
-# ABOUT_ME
+# ABOUT JUDITH
 
 # Howdy 
 
@@ -15,5 +15,5 @@ Experienced in automation, data analysis, and application building across Medica
 Python • Pandas • NumPy • Matplotlib • Git
 
 ## Other 
-BPMN Process Mapping • SQL • PowerBI • Jira • Power Query
+BPMN Process Mapping • SQL • PowerBI • Jira • Power Query • Program Coordination •End-to-End RFP coordination
 
