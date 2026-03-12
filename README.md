@@ -3,7 +3,7 @@
 # Howdy 
 
 I enjoy using Python as a tool to transform complex datasets into clear and actionable insights and solve real-world problems. 
-Experienced in automation, data analysis, and application building across Medical Research, Health, & Education sectors.
+Experienced in automation, app dev, & data analysis across Medical Research, Health, & Education sectors, especially in a Procurement context.
 
 ## What I Do
 - Clean, transform, analyse, explore data -> support data-driven decision making 
